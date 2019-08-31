@@ -3,6 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <cs50.h>
+
 int main(int argc, string argv[])
 {
     if (argc != 2)
