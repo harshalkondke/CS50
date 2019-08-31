@@ -22,6 +22,7 @@ void mario()
         printf("\n");
     }
 }
+
 int main(void)
 {
     //main will call function mario
