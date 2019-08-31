@@ -24,9 +24,7 @@ int main(int argc, char **argv)
             }
         }
     }
-
     string pt = get_string("plaintext:  ");
-
     printf("ciphertext: ");
     int k = 0;
     int keylen = strlen(argv[1]);
